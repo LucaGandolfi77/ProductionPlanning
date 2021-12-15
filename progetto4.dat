@@ -1,0 +1,19 @@
+
+#insiemi
+set T := 1 2 3 4 5;
+set T1 := 1;
+
+#parametri
+param T1_num := 1;
+param c := 5;
+param cp := 7;
+param cg := 8;
+param perc := 50;
+param prod_str_max := 50;
+param domanda := 
+1 10
+2 10
+3 10
+4 30
+5 30;
+
